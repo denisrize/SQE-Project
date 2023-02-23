@@ -5,8 +5,7 @@ This is a repository for assignment 3 of the Software Quality Engineering course
 In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart) with Model Base testing using [Provengo](https://provengo.tech/) and BDD testing using [Cucumber](https://cucumber.io/) .
 
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
-## Installation
-### Windows Install:
+## Open Cart Installation (Windows):
 1. Upload all the files and folders to your server from the "Upload" folder. This can be to anywhere of your choice. e.g. /wwwroot/store or /wwwroot
 
 2. Rename config-dist.php to config.php and admin/config-dist.php to admin/config.php
