@@ -1,11 +1,6 @@
 # Testing *Admin deactivate user while user logged in and tries to change his name* software opencart using Provengo
 This directory contains the Provengo project for testing *Admin deactivate user while user logged in and tries to change his name.* software opencart.
 
-*Admin deactivate user while user logged in and tries to change his name.* 
-1. replace the name of the folder 'helloprovengo' with the name of your software (use underscore/title case to avoid spaces)
-2. Search and replace for the word 'helloprovengo' in the entire project and replace it with the new folder name. 
-$$
-
 ## Running the tests
 To run a single random test, run:
 ```shell 
