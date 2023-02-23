@@ -2,7 +2,7 @@
 This is a repository for assignment 3 of the Software Quality Engineering course at the [Ben-Gurion University](https://in.bgu.ac.il/), Israel.
 
 ## Assignment Description
-In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart) with Model Base testing using [Provengo](https://provengo.tech/) and BDD testing using [Cucumber](https://cucumber.io/) .
+In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart).
 
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
 ## Open Cart Installation (Windows):
