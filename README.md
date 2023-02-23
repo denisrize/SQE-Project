@@ -2,7 +2,7 @@
 This is a repository for assignment 3 of the Software Quality Engineering course at the [Ben-Gurion University](https://in.bgu.ac.il/), Israel.
 
 ## Assignment Description
-In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart).
+In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart) using Model Base testing with [Provengo](https://provengo.tech/) .
 
 OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
 ## Installation
@@ -25,7 +25,7 @@ OpenCart is a free open source ecommerce platform for online merchants. OpenCart
 
 We tested the deactivate user account module that allows admin to block users account from the site. We chose to test the following user story:
 
-*User story:* A user tries to change his account name while the admin block his account. 
+*User Case:* A user tries to change his account name while the admin block his account. 
 
 *Preconditions:* There is a user and admin accounts registered to open cart.
 
@@ -39,6 +39,5 @@ We used two different testing methods:
 Each of the testing methods is elaborated in its own directory. 
 
 ## Results
-Update all README.md files (except for d-e, see Section 1). Specifically, replace all $$*TODO*…$$ according to the instructions inside the $$.
-
+In conclusion the system work as expected, That is the user changes on his account details were not saved after he got blocked by the admin. You can also see the results in the README files at Provengo/Cucumber dircotory.
  
