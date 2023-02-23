@@ -1,4 +1,4 @@
-# Testing *Admin deactivate user while user logged in and tries to change his name* software opencart using Provengo
+# Testing *Admin deactivate user while user logged in and tries to change his account details* software opencart using Provengo
 This directory contains the Provengo project for testing *Admin deactivate user while user logged in and tries to change his name.* software opencart.
 
 ## Running the tests
