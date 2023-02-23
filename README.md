@@ -4,8 +4,8 @@ This is a repository for assignment 3 of the Software Quality Engineering course
 ## Assignment Description
 In this assignment, we tested an open-source software called [opencart](https://github.com/opencart/opencart).
 
-OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.## Installation
-
+OpenCart is a free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
+## Installation
 ## Windows Install:
 1. Upload all the files and folders to your server from the "Upload" folder. This can be to anywhere of your choice. e.g. /wwwroot/store or /wwwroot
 
